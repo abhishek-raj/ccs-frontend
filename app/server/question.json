@@ -1,0 +1,8 @@
+[
+	{"qno": "1", "question": "What is the national flower of India?", "options": ["Lotus", "Rose", "Sunflower", "Jasmine"]},
+	{"qno": "2", "question": "What is the national animal of India?", "options": ["Tiger", "Lion", "Donkey", "Elephant"]},
+	{"qno": "3", "question": "What is the capital of India?", "options": ["Kolkata", "Chennai", "Delhi", "Jamshedpur"]},
+	{"qno": "4", "question": "What is the national bird of India?", "options": ["Cock", "Peacock", "Chick", "Dove"]},
+	{"qno": "5", "question": "Which is the fastest bird?", "options": ["Ostrich", "Kiwi", "Hen", "Blah"]},
+	{"qno": "5", "question": "Which is the fastest bird?", "options": []}
+]
