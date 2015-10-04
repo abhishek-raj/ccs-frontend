@@ -1,2 +1,1 @@
-# ccs-frontend
-CCSelection Frontend
+# Initial dist
